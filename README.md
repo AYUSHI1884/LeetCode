@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AYUSHI1884/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AYUSHI1884/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AYUSHI1884/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/AYUSHI1884/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Database
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AYUSHI1884/LeetCode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/AYUSHI1884/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
