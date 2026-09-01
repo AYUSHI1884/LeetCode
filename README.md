@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AYUSHI1884/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AYUSHI1884/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/AYUSHI1884/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AYUSHI1884/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AYUSHI1884/LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/AYUSHI1884/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AYUSHI1884/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/AYUSHI1884/LeetCode/tree/master/0027-remove-element) |
 ## Manacher
 |  |
 | ------- |
