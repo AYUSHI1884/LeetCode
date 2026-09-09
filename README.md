@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0620-not-boring-movies](https://github.com/AYUSHI1884/LeetCode/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AYUSHI1884/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [3436-find-valid-emails](https://github.com/AYUSHI1884/LeetCode/tree/master/3436-find-valid-emails) |
 ## Sorting
 |  |
 | ------- |
