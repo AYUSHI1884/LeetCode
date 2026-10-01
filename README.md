@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AYUSHI1884/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AYUSHI1884/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AYUSHI1884/LeetCode/tree/master/0217-contains-duplicate) |
+| [0706-design-hashmap](https://github.com/AYUSHI1884/LeetCode/tree/master/0706-design-hashmap) |
 | [1480-running-sum-of-1d-array](https://github.com/AYUSHI1884/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHI1884/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AYUSHI1884/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AYUSHI1884/LeetCode/tree/master/0217-contains-duplicate) |
+| [0706-design-hashmap](https://github.com/AYUSHI1884/LeetCode/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AYUSHI1884/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AYUSHI1884/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0706-design-hashmap](https://github.com/AYUSHI1884/LeetCode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSHI1884/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/AYUSHI1884/LeetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/AYUSHI1884/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
