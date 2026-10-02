@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AYUSHI1884/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AYUSHI1884/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AYUSHI1884/LeetCode/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHI1884/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0706-design-hashmap](https://github.com/AYUSHI1884/LeetCode/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
 |  |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSHI1884/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AYUSHI1884/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AYUSHI1884/LeetCode/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHI1884/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHI1884/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AYUSHI1884/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
